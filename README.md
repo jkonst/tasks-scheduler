@@ -9,7 +9,7 @@ A device must schedule 5 tasks with the following <u>Requirements:</u>
 - It is OK if tasks D and E run for the first time before the first 10s elapsed
 
 ## How to run the program
-0. Checkout the code from this repo. 
+0. Checkout the code from this repo. e.g. ```git clone https://github.com/jkonst/tasks-scheduler.git``` 
 1. Ensure that Java is installed on your computer. (Current version of the program is using Java 17).
 2. Create a directory for compiled classes. ```mkdir out```
 3. Compile all Java classes ```javac -d out src/jkonst/debiotech/main/*.java```
